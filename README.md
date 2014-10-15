@@ -58,7 +58,7 @@ It also accepts an optional `domain` parameter. `domain` defaults to `localhost`
 
 Once you have a playback token, you can pass it to the Rdio jQuery library as described here:
 
-[http://www.rdio.com/developers/docs/libraries/jquery/]()
+[http://www.rdio.com/developers/docs/libraries/jquery/](http://www.rdio.com/developers/docs/libraries/jquery/)
 
 ### Extra Links
 
